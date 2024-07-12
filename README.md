@@ -1,2 +1,2 @@
 # 📚 Alura Books
-Projeto feito durante o curso de responsividade da Alura.
+Projeto feito durante o curso "HTML e CSS: responsividade com mobile-first" da Alura.
